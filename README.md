@@ -1,6 +1,4 @@
-# Machine Learning on CLAMP Dataset
-Supervised and Unsupervised Machine Learning with contrained Data
-
+# Supervised and Unsupervised Machine Learning with contrained Data
 
 ## Introduction
 Malicious programs or malware is an intentionally written program to indulge in various malicious activities, ranging from stealing user’s information to 
