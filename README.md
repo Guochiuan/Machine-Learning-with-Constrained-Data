@@ -26,11 +26,6 @@ Built using python
 !pip install pandas==1.3.5 numpy==1.21.6 scikit-learn==1.0.2 joblib==1.1.0
 ```
 
-To be able to follow through: 
-
-Pandas [documentation](https://pandas.pydata.org/docs/)
-
-If you prefer [video](https://www.youtube.com/watch?v=vmEHCJofslg), I got you.
 
 ----
 ## Data Exploration
