@@ -1,5 +1,5 @@
 # Machine Learning on CLAMP Dataset
-Supervised and Unsupervised Machine Learning on CLAMP Dataset
+Supervised and Unsupervised Machine Learning with contrained Data
 
 
 ## Introduction
